@@ -1,0 +1,70 @@
+.homePage{
+    background: url(../images/doctor.jpg) no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 120px;
+}
+/* BODY {overflow-x: hidden;} */
+.nav-item{
+    color: white;
+}
+.headers{
+    padding: 130px;
+    height: 600px;
+}
+.headers_h1{
+    font-size: 70px;
+}
+.headers_h2{
+    font-size: 50px;
+    font-weight: 200;
+}
+.services{
+    background: linear-gradient(0deg, rgba(54,84,99,0.7),rgba(54,84,99,0.7)),url(../images/maternity.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+.cards{
+    color: black;
+    margin-left: 60px;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+}
+.services_h1{
+    font-size: 60px;
+}
+.services_p{
+    font-size: 20px;
+}
+.about_card_title{
+    font-size: 50px;
+}
+.card-title{
+    font-weight: 700;
+}
+.about_cards{
+    background: linear-gradient(0deg, rgba(54,84,99,0.7),rgba(54,84,99,0.7)),url(../images/doctor.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 60px;
+}
+.about_card{
+    margin-left: 60px;
+}
+.logo_title{
+    font-size: 35px;
+}
+.modal-title{
+    margin-left: 180px;
+}
+.card:hover{
+    background-color:slategray;
+    color: white;
+}
